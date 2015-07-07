@@ -2,12 +2,12 @@ Package: com.peter.peterstema
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Peter <paadyhr@gmail.com>
-Depends: com.saurik.winterboard
+Depends: winterboard
 Filename: .//PetersTema.deb
-Size: 120290
-MD5sum: 517783880fe112b7b3b3da479ffb1805
-SHA1: a91beaf89a284da9e002437eecb0cced1b8c3343
-SHA256: 5151a52e8f59e8997b621147419b30d2be850fe143de6152e5decdeb63b63f7e
+Size: 120286
+MD5sum: 9b1b2a48cffe358640fc7b617f6c7718
+SHA1: 55dc1d468d6b35523a72321697c430c112fc5e20
+SHA256: ae4954a30aeef216f78efe2e74721ec7d189b9ee37fdc9d2981efd60863c9b0b
 Description: Peters Tema
 Author: Peter <paadyhr@gmail.com>
 Name: PetersTema
