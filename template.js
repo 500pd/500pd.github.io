@@ -12,7 +12,7 @@ var template = ' \
 <body text="#000000" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
  \
 <div align="center" style="background-color:#77ffff"> \
-<h1>H6nry\'s Repo</h1> \
+<500pds repositorie</h1> \
 </div> \
  \
 <div align="center" style="background-color:#FFFFFF;"> \
