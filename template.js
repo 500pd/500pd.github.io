@@ -22,7 +22,7 @@ var template = ' \
 var content = document.getElementById('content').innerHTML;
 
 var bottom = '\
-<h3><a href="https://twitter.com/H6nry_/" target="_blank">Me on Twitter: H6nry_</a><br> \
+<h3><a href="https://twitter.com/paadyhr/" target="_blank">Me on Twitter: paadyhr</a><br> \
 <a href="https://github.com/500pd/" target="_blank">Me on Github: 500pd</a><br> \
 <a href="http://500pd.github.io/" target="_blank">My Website</a></h3> \
 ';
