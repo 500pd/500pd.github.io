@@ -7,7 +7,7 @@ var template = ' \
 <link rel="shortcut icon" href=""> \
 <meta name="robots" content="index,follow"> \
 <!--<meta http-equiv="cache-control" content="no-cache">--> \
-<title>500pds Cydia repositorei</title> \
+<title>500pds Cydia repositorie</title> \
 </head> \
 <body text="#000000" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
  \
@@ -22,8 +22,8 @@ var template = ' \
 var content = document.getElementById('content').innerHTML;
 
 var bottom = '\
-<h3><a href="https://twitter.com/paadyhr/" target="_blank">Me on Twitter: paadyhr</a><br> \
-<a href="https://github.com/500pd/" target="_blank">Me on Github: 500pd</a><br> \
-<a href="http://500pd.github.io/" target="_blank">My Website</a></h3> \
+<h3><a href="https://twitter.com/paadyhr/" target="_blank">Min Twitter: paadyhr</a><br> \
+<a href="https://github.com/500pd/" target="_blank">Min Github: 500pd</a><br> \
+<a href="http://500pd.github.io/" target="_blank">Min Website</a></h3> \
 ';
 document.write(template + content + bottom);
