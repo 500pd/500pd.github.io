@@ -3,7 +3,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Peter <paadyhr@gmail.com>
 Depends: winterboard
-Filename: .//PetersTema.deb
+Filename: debs//PetersTema.deb
 Size: 120350
 MD5sum: 6916dedf63dfb92bff1dd636fdbb3460
 SHA1: 1add1e85e45176a64f306f2b4fb5d9d822a32189
