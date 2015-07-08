@@ -23,10 +23,14 @@ var content = document.getElementById('content').innerHTML;
 
 var bottom = '\
 <h3><a href="https://github.com/500pd/" target="_blank">Min Github: 500pd</a><br> \
-<a href="http://500pd.github.io/" target="_blank">Min Website</a></h3> \
 ';
 document.write(template + content + bottom);
 
-/* under var bottom = '\ sæt
+/*
+under var bottom = '\ sæt
 <h3><a href="https://twitter.com/paadyhr/" target="_blank">Min Twitter: paadyhr</a><br> \
-for at vise link til min twitter*/
+for at vise link til min twitter
+Og
+<a href="http://500pd.github.io/" target="_blank">Min hjemmeside</a></h3> \
+for at vise link til hjemmeside
+*/
