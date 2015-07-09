@@ -1,5 +1,6 @@
 #body{
   background-color: #F3F3F5;
+  background-blend-mode: luminosity;
 }
 #h1{
   font-family: helvetica;
