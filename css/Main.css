@@ -4,11 +4,13 @@ body{
 .Midt{
   text-align: center;
   color: #3F3F3F;
+  padding: 5% 10%;
 }
 h1{
   font-family: helvetica;
   font-weight: bold;
   background-color: #969696;
+  font-size: 30px;
 }
 #underH3{
   font-style: normal;
