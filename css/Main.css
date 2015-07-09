@@ -3,8 +3,12 @@ body{
 }
 .Midt{
   text-align: center;
+  color: #3F3F3F;
 }
 h1{
   font-family: helvetica;
   font-weight: bold;
+}
+#underH3{
+  font-style: normal;
 }
