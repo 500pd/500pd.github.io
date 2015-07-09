@@ -16,5 +16,14 @@ h1{
   padding: 2% 10%;
 }
 #links{
-  font-size: x-large;
+  font-size: large;
+}
+a:hover{
+  background-color: #969696;
+}
+a:active{
+  color: #00FFFF;
+}
+a:visited{
+  color: #660066;
 }
