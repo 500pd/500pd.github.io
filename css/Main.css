@@ -9,7 +9,7 @@ body{
 h1{
   font-family: helvetica;
   font-weight: bold;
-  background-color: #969696;
+  /* background-color: #969696;*/
   font-size: 30px;
 }
 #underH3{
