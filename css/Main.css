@@ -1,10 +1,10 @@
 body{
+  padding: 10%;
   background-color: #F3F3F5;
 }
 .Midt{
   text-align: center;
   color: #3F3F3F;
-  padding: 5% 10%;
 }
 h1{
   font-family: helvetica;
