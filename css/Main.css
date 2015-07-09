@@ -9,10 +9,12 @@ body{
 h1{
   font-family: helvetica;
   font-weight: bold;
-  background-color: #969696;
   font-size: xx-large;
 }
 #underH3{
   font-style: normal;
   padding: 2% 10%;
+}
+#links{
+  font-size: x-large;
 }
