@@ -1,0 +1,3 @@
+#!/bin/zsh
+echo "sletter .DS_Store filer"
+find $PWD/* | grep -e "^\.DS_Store$" | xargs rm -i

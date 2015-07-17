@@ -1,0 +1,11 @@
+Package: com.paadyhr.peterstema
+Name: PetersTema
+Version: 0.1.2
+Architecture: iphoneos-arm
+Description: Peters Tema
+Homepage: p.9.buhm.in
+Depiction: p.9.buhm.in/depictions/PetersTema/
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Section: Themes
+Depends: winterboard

@@ -1,15 +1,17 @@
-Package: com.500pd.peterstema
-Version: 0.1
+Package: com.paadyhr.peterstema
+Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: Peter <paadyhr@gmail.com>
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
 Filename: debs//PetersTema.deb
-Size: 120350
-MD5sum: 6916dedf63dfb92bff1dd636fdbb3460
-SHA1: 1add1e85e45176a64f306f2b4fb5d9d822a32189
-SHA256: a1f27241f47804453172d7cae6dfa7c39d0ce2e244993e3a1b97e3f1277fa4f2
+Size: 118862
+MD5sum: 9bb8e4703a8532cc2fb10f0596071eca
+SHA1: e1073f7710b2a9f7f293a35a6e760c4b805fbb2b
+SHA256: 1a0f3cc813feb5a6c8c66597857f489378b268ad4ab8e1f4247318b22b7f30e9
 Section: Themes
+Homepage: p.9.buhm.in
 Description: Peters Tema
-Author: Peter <paadyhr@gmail.com>
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: p.9.buhm.in/depictions/PetersTema/
 Name: PetersTema
 
