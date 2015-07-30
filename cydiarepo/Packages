@@ -15,3 +15,19 @@ Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depiction: p.9.buhm.in/depictions/PetersTema/
 Name: PetersTema
 
+Package: com.paadyhr.whitebootlogo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//White_BootLogo.deb
+Size: 6952
+MD5sum: 342d215b32a5aa39e53eaca39298ea04
+SHA1: ea37eedb7702655eaf548d65ef9e84a75433e128
+SHA256: cd759fdd86e3f0dc45d6929295584cb7fb8a476bec11bd3c2e69cdf711509c8c
+Section: Themes
+Homepage: p.9.buhm.in
+Description: White Bootlogo
+Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Name: White BootLogo
+
