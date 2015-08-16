@@ -1,9 +1,10 @@
 Package: com.paadyhr.whitebootlogo
 Name: White BootLogo
-Version: 1.2
+Version: 1.4
 Architecture: iphoneos-arm
 Description: White Bootlogo
-Homepage: p.9.buhm.in
+Depiction: http://p.9.buhm.in/depictions/WhiteBootLogo/index.html
+Homepage: http://p.9.buhm.in
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Section: Themes

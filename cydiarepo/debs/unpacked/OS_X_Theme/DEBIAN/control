@@ -1,0 +1,12 @@
+Package: com.paadyhr.osxtheme
+Name: OS X Theme
+Version: 1.1
+Architecture: iphoneos-arm
+Description: OS X Theme
+Homepage: http://p.9.buhm.in
+Depiction: http://p.9.buhm.in/depictions/OS_X_Theme/index.html
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Section: Themes
+Depends: winterboard
+

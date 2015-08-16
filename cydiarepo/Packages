@@ -1,33 +1,51 @@
+Package: com.paadyhr.osxtheme
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depends: winterboard
+Filename: debs//OS_X_Theme-1.1.deb
+Size: 6704834
+MD5sum: ce9ebd57ab6839bdbce4bb0f504007b8
+SHA1: aa2101917ebe59a259923a816babf61cec754387
+SHA256: 3643b9ae2396972530576f555ff099a7aa5c82dbdf728befe588568a76b0cd60
+Section: Themes
+Homepage: http://p.9.buhm.in
+Description: OS X Theme
+Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/depictions/OS_X_Theme/index.html
+Name: OS X Theme
+
 Package: com.paadyhr.peterstema
-Version: 0.1.2
+Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
 Filename: debs//PetersTema.deb
-Size: 118862
-MD5sum: 9bb8e4703a8532cc2fb10f0596071eca
-SHA1: e1073f7710b2a9f7f293a35a6e760c4b805fbb2b
-SHA256: 1a0f3cc813feb5a6c8c66597857f489378b268ad4ab8e1f4247318b22b7f30e9
+Size: 118878
+MD5sum: 360dd16424c4a0b1f2aec6602753dd10
+SHA1: 680504eb0185b4207781503d0435e6cc94814a45
+SHA256: 8cf1134e39fd40b62cb324cae91447c7c3ac41adca96e0ef61081dd6e93796aa
 Section: Themes
-Homepage: p.9.buhm.in
+Homepage: http://p.9.buhm.in
 Description: Peters Tema
 Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
-Depiction: p.9.buhm.in/depictions/PetersTema/
+Depiction: http://p.9.buhm.in/depictions/PetersTema/index.html
 Name: PetersTema
 
 Package: com.paadyhr.whitebootlogo
-Version: 1.2
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
 Filename: debs//White_BootLogo.deb
-Size: 6952
-MD5sum: 342d215b32a5aa39e53eaca39298ea04
-SHA1: ea37eedb7702655eaf548d65ef9e84a75433e128
-SHA256: cd759fdd86e3f0dc45d6929295584cb7fb8a476bec11bd3c2e69cdf711509c8c
+Size: 6992
+MD5sum: edd160e787520df97f21260dc7b3f630
+SHA1: 03795dc0e55cef92ad17558901b53e4d8498c0d3
+SHA256: ce87f6f71775394455a0c5377ad503d3b47a0d40f820e399b685849f24404ef7
 Section: Themes
-Homepage: p.9.buhm.in
+Homepage: http://p.9.buhm.in
 Description: White Bootlogo
 Auther: Peter András Adorján Dyhr <paadyhr@gmail.com>
+Depiction: http://p.9.buhm.in/depictions/WhiteBootLogo/index.html
 Name: White BootLogo
 
