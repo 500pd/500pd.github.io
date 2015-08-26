@@ -1,4 +1,15 @@
 # Custom 404 Page
 ErrorDocument 404 /404page.html
+# Custom 401 Page
+ErrorDocument 401 /401page.html
+# Custom 403 Page
+ErrorDocument 403 /403page.html
 # Custom 500 Page
 ErrorDocument 500 /500page.html
+
+# Password Protect file
+#<Files /css>
+#AuthName "Promt"
+#AuthUserFile /home/paad/.htaccess
+#Require valid-user
+#</Files>
