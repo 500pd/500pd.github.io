@@ -1,4 +1,6 @@
 #!/bin/zsh
 echo "Kopiere filer"
-rsync -e ssh -rhvc --progress /Users/paad/GitHub/500pd.github.io/ --exclude=\.DS_Store --exclude=\.git --include=\.htaccess git@github.com:~/500pd/500pd.github.io/
+git add *
+git commit -am "update"
+git push
 echo "Kopiering færdig"
