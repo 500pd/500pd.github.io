@@ -1,53 +1,94 @@
-body{
+body {
   padding: 10px;
   background-color: #F3F3F5;
   color: #0C0C0C;
 }
-.Midt{
+.Midt {
   text-align: center;
   color: #3F3F3F;
 }
-.Right{
+.Right {
   text-align: right;
 }
-h1{
+.Script {
+  text-align: center;
+  color: #EBEBEB;
+  background-color: #999999;
+}
+.Code {
+  /*width: 25%;
+  margin-left: 37.5%;
+  margin-right: 37.5%;*/
+  text-align: center;
+}
+.Child {
+  width: auto;
+  margin-left: 37.5%;
+  margin-right: 37.5%;
+  border: solid 1px #ccc;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: large;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+}
+h1 {
   font-family: helvetica;
   font-weight: bold;
   font-size: xx-large;
 }
-#underH3{
+#underH3 {
   font-style: normal;
   padding: 2% 10%;
 }
-#links{
+#links {
   font-size: large;
 }
-#pakker{
+#pakker {
   table-layout: fixed;
   width: 50%;
   margin-left: 25%;
   margin-right: 25%;
 }
-a:link{
-  color: #00CC7A
-  text-decoration: none;
-}
-a:hover{
-  color: #8A2E00;
-  text-decoration: underline;
-}
-a:active{
-  color: #3E87D1;
-  text-decoration: underline;
-}
-a:visited{
+a:link {
   color: #00CC7A;
   text-decoration: none;
 }
-table, th, td{
+a:hover {
+  color: #30D3E3;
+  text-decoration: underline;
+}
+a:active {
+  color: #3E87D1;
+  text-decoration: underline;
+}
+a:visited {
+  color: #09DA86;
+  text-decoration: none;
+}
+table, th, td {
   border: 1px solid #000000;
 }
-th, td{
+th, td {
   text-align: center;
   vertical-align: middle;
+}
+nav {
+  text-align: center;
+  font-size: large;
+}
+
+
+#noFlash {
+  position: fixed;
+  z-index: 500;
+  right: 0;
+  bottom: 0;
+  display: block;
+  height: 160px;
+  width: 160px;
+  background: url(/images/flashfreeBR.png) bottom right no-repeat;
+  text-indent: -999em;
+  text-decoration: none;
 }
