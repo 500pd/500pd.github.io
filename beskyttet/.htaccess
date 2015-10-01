@@ -1,4 +1,4 @@
-AuthUserFile /home/paad/.htpassswd
+AuthUserFile .htpassswd
 AuthType Basic
 AuthName "Test"
 Require valid-user
