@@ -1,10 +1,10 @@
 Package: com.paadyhr.peterstema
 Name: PetersTema
-Version: 0.1.6
+Version: 0.1.6-2
 Architecture: iphoneos-arm
 Description: Peters Tema
-Homepage: http://p.9.buhm.in
-Depiction: http://p.9.buhm.in/depictions/PetersTema/index.html
+Homepage: https://500pd.github.io
+Depiction: https://500pd.github.io/depictions/PetersTema/index.html
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Section: Themes
