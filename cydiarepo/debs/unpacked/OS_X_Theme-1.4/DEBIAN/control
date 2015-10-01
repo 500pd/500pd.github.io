@@ -1,10 +1,10 @@
 Package: com.paadyhr.osxtheme
 Name: OS X Theme
-Version: 1.4
+Version: 1.4-2
 Architecture: iphoneos-arm
 Description: OS X Theme
-Homepage: http://p.9.buhm.in
-Depiction: http://p.9.buhm.in/cydiarepo/depictions/OS_X_Theme/index.html
+Homepage: https://500pd.github.io
+Depiction: https://500pd.github.io/cydiarepo/depictions/OS_X_Theme/index.html
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Author: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Section: Themes
