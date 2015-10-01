@@ -2,6 +2,6 @@
 echo "Kopiere filer"
 cd /Users/paad/GitHub/500pd.github.io/
 git add --all
-git commit -m "update"
+git commit -am "update"
 git push -u origin master
 echo "Kopiering færdig"
