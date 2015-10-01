@@ -23,8 +23,8 @@ In the
 
 
 ###Styling text
-*italic* / _italic_
-**bold** / __bold__
+*italic* / _italic_ <br>
+**bold** / __bold__ <br>
 **bold with some _italic_ inside**
 
 ##Lists
@@ -51,7 +51,7 @@ In the
 
 ##Code formatting
 ###Inline formats
-Idé `test´ til `**italic**`
+Idé `test`  `**italic**`
 
 ###Multiply lines
 Test
