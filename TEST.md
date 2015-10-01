@@ -64,3 +64,18 @@ x = ?
 
 ##Links
 [Visit GitHub](https://www.github.com/500pd/500pd.github.io)
+
+
+
+
+| Tables        | Are            | Cool   |
+|---------------|:-------------–:|-------:|
+| col 3 is      | right-aligned  | $1600  |
+| col 2 is      | centered       |   $12  |
+| zebra stribes | are neat       |    $1  |
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
