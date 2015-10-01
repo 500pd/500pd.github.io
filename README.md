@@ -52,6 +52,7 @@ In the
 ##Code formatting
 ###Inline formats
 Idé `test` til `_italic_` *italic* _italic_
+Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
 
 ###Multiply lines
 Test
