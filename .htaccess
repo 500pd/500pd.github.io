@@ -10,6 +10,6 @@ ErrorDocument 500 /500.html
 <FilesMatch "(slet_skrammelfiler)|(upload)">
 AuthName "Member only"
 AuthType Basic
-AuthUserFile /home/paad/.htpasswd
+AuthUserFile ./.htpasswd
 require valid-user
 </FilesMatch>
