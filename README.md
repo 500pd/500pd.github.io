@@ -11,7 +11,7 @@ My Cydia repository
 
 ##Basic writing
 ###Paragraphs
-On July 2, test 1
+On July 2, test 1 <br>
 On July 3, test 2
 
 ###Headings
