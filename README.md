@@ -51,7 +51,7 @@ In the
 
 ##Code formatting
 ###Inline formats
-Idé `test` til `*italic*`
+Idé `test` til `_italic_` *italic* _italic_
 
 ###Multiply lines
 Test
