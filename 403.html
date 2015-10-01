@@ -3,17 +3,21 @@ layout: page
 title: 403
 ---
 <!DOCTYPE html>
-<html>
-  <head>
+<head>
+    <!-- some other meta -->
     <meta charset="utf-8">
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    <!-- some other stuff like link or script -->
     <link rel="stylesheet" type="text/css" href="/css/Main.css">
-    <link rel="icon" type="image/png" href="./favicon.png">
+    <link rel="icon" type="image/png" href="/favicon.png">
     <title>403 Forbidden</title>
-  </head>
-  <body>
-    <p class="Midt" id="links">
-      <a href="/">Forside</a> <a href="/cydiarepo">Cydia repo</a>
-    </p>
+</head>
+<body>
+    <nav>
+      <a href="/">Forside</a> | <a href="/cydiarepo/">Cydia repo</a> | <a href="/andet">Andet</a>
+    </nav>
     <h1 class="Midt">403 Forbidden</h1>
     <h2 class="Midt">Denne side har du desværre ikke rettighed til at se.</h2>
     <p class="Midt">
@@ -21,5 +25,4 @@ title: 403
       <a href="http://p.9.buhm.in">Eller gå til forsiden</a/>
     </p>
     <a id="noFlash" href="http://www.musingsfrommars.org/notoflash/" title="This is a Flash-Free Website... We use open file standards only... Not proprietary formats like Adobe Flash" alt="This is a Flash-Free Website... We use open file standards only... Not proprietary formats like Adobe Flash">Just Say No To Flash!</a>
-  </body>
-</html>
+</body>
