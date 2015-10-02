@@ -1,5 +1,4 @@
 #!/bin/zsh
-./make_packages
 echo "flytter .deb filer"
 mv $PWD/debs/unpacked/*.deb ./debs/
 echo "laver pakkeliste"
