@@ -71,7 +71,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//OS_X_Theme.deb
+Filename: debs//OS_X_Theme-1.5.deb
 Size: 1776088
 MD5sum: d679720a034bc4bf8b1ca37ed4f78f6c
 SHA1: a10cfb656166d1a954ea92de7fde7db273438108
@@ -139,7 +139,7 @@ Version: 0.1.7
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//PetersTema.deb
+Filename: debs//PetersTema-0.1.7.deb
 Size: 119514
 MD5sum: c1e824cb3285ee8b79c2b126f1d5e2b0
 SHA1: 1bf366ec6761ddf98915a6e73a18a9380fa90c36
@@ -206,7 +206,7 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Peter András Adorján Dyhr <paadyhr@gmail.com>
 Depends: winterboard
-Filename: debs//White_BootLogo.deb
+Filename: debs//White_BootLogo-1.6.deb
 Size: 7360
 MD5sum: fed885ffd170df912a94e81d6da9aa64
 SHA1: 7deb53ac966034ada6da043f590b0d7cf628c714
