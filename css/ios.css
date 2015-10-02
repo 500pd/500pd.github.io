@@ -1,3 +1,16 @@
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0
+}
+
+.clearfix {
+    display: block
+}
+
 * {
     border: 0;
     -moz-border-radius: 0;
@@ -16,6 +29,17 @@
     vertical-align: baseline
 }
 
+sup {
+    font-size: smaller;
+    margin-top: -6px;
+    position: relative;
+    top: -6px
+}
+
+select {
+    border: 1px solid #999
+}
+
 panel {
     display: block;
     width: 320px
@@ -29,9 +53,86 @@ body {
     width: 320px
 }
 
+body.white {
+    background-color: #fff
+}
+
+dialog {
+    display: block;
+    position: absolute;
+    width: 100%
+}
+
+dialog > panel {
+    display: block
+}
+
 a {
     color: #00f;
     text-underline-style: dotted
+}
+
+strong {
+    font-weight: 700
+}
+
+pre, tt {
+    font-family: monospace
+}
+
+pre {
+    letter-spacing: -2px
+}
+
+em {
+    font-style: italic
+}
+
+.default {
+    color: #aab
+}
+
+dialog > toolbar {
+    background: url(toolbar.png) repeat-x #6d84a2;
+    border-bottom: 1px solid #2d3642;
+    height: 45px;
+    padding: 10px
+}
+
+dialog > toolbar > h1 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    height: 100%;
+    margin: 1px auto 0;
+    text-shadow: rgba(0, 0, 0, .4) 0 -1px 0;
+    text-align: center;
+    white-space: nowrap
+}
+
+dialog > toolbar > a.back-button, dialog > toolbar > a.forward-button {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    height: 30px;
+    line-height: 30px;
+    margin-top: -28px;
+    padding: 0 3px;
+    text-decoration: none;
+    text-shadow: rgba(0, 0, 0, .6) 0 -1px 0;
+    white-space: nowrap
+}
+
+dialog > toolbar > a.back-button {
+    -webkit-border-image: url(backButton.png) 0 8 0 14;
+    border-width: 0 8px 0 14px;
+    float: left
+}
+
+dialog > toolbar > a.forward-button {
+    -webkit-border-image: url(toolButton.png) 0 5 0 5;
+    border-width: 0 5px;
+    float: right
 }
 
 panel > block {
@@ -73,6 +174,17 @@ panel > input[type=submit] {
     padding: 10px;
     text-align: center;
     width: 302px
+}
+
+list > label {
+    background: url(cydia://uikit-image/UISectionListHeaderBackground.png) repeat-x no-repeat-y #a7b3bc;
+    margin-bottom: 0;
+    padding: 4px 15px 1px;
+    display: block;
+    color: #fff;
+    font-size: inherit;
+    font-weight: 700;
+    text-shadow: rgba(0, 0, 0, .5) 0 1px 0
 }
 
 panel > label {

@@ -1,3 +1,15 @@
+body {
+    font-family: Helvetica, Arial;
+    -webkit-text-size-adjust: none;
+    -webkit-user-select: none;
+    margin: 0 auto;
+    width: 320px
+}
+
+body.white {
+    background-color: #fff
+}
+
 body.pinstripe {
     padding: 0;
     background: url(background.png) top center repeat-y #fff
@@ -6,6 +18,7 @@ body.pinstripe {
 body.transparent {
     background: 0 0 !important
 }
+
 @media screen and (max-device-width:480px) {
     body.pinstripe {
         background: url(http://cache.saurik.com/menes/pinstripes.png) #c7ced5
@@ -14,6 +27,16 @@ body.transparent {
     panel {
         background: 0 0
     }
+
+    .cydia-only {
+        display: block
+    }
+
+    .browser-only {
+        display: none
+    }
+}
+
 body.modern.pinstripe {
     background: #efeff4
 }
