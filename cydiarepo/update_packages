@@ -1,4 +1,5 @@
 #!/bin/zsh
+./slet_skrammelfiler
 ./make_packages
 echo "flytter .deb filer"
 mv $PWD/debs/unpacked/*.deb ./debs/
