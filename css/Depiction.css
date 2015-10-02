@@ -6,3 +6,18 @@ body.pinstripe {
 body.transparent {
     background: 0 0 !important
 }
+@media screen and (max-device-width:480px) {
+    body.pinstripe {
+        background: url(http://cache.saurik.com/menes/pinstripes.png) #c7ced5
+    }
+
+    panel {
+        background: 0 0
+    }
+body.modern.pinstripe {
+    background: #efeff4
+}
+
+body.modern, .modern panel {
+    width: auto
+}
