@@ -28,7 +28,7 @@ a:visited {
 }
 
 /* På en web-server*/
-/*#noFlash {
+#noFlash {
   position: fixed;
   z-index: 500;
   right: 0;
@@ -39,7 +39,7 @@ a:visited {
   background: url(/images/flashfreeBR.png) bottom right no-repeat;
   text-indent: -999em;
   text-decoration: none;
-}*/
+}
 
 /* Lokalt*/
 #noFlash {
