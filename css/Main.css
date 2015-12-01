@@ -1,55 +1,12 @@
 body {
-  padding: 10px;
-  background-color: #F3F3F5;
+  /*padding: 80px;
+  background-color: #F3F3F5;*/
   color: #0C0C0C;
-}
-.Midt {
-  text-align: center;
-  color: #3F3F3F;
-}
-.Right {
-  text-align: right;
-}
-.Script {
-  text-align: center;
-  color: #EBEBEB;
-  background-color: #999999;
-}
-.Code {
-  /*width: 25%;
-  margin-left: 37.5%;
-  margin-right: 37.5%;*/
-  text-align: center;
-}
-.Child {
-  width: auto;
-  margin-left: 37.5%;
-  margin-right: 37.5%;
-  border: solid 1px #ccc;
-  display: inline-block;
-  vertical-align: middle;
-  font-size: large;
-  text-align: center;
-  white-space: nowrap;
-  overflow: hidden;
 }
 h1 {
   font-family: helvetica;
   font-weight: bold;
   font-size: xx-large;
-}
-#underH3 {
-  font-style: normal;
-  padding: 2% 10%;
-}
-#links {
-  font-size: large;
-}
-#pakker {
-  table-layout: fixed;
-  width: 50%;
-  margin-left: 25%;
-  margin-right: 25%;
 }
 a:link {
   color: #00CC7A;
@@ -79,6 +36,52 @@ nav {
   font-size: large;
 }
 
+.Midt {
+  text-align: center;
+  color: #3F3F3F;
+}
+.Right {
+  text-align: right;
+}
+.Script {
+  text-align: center;
+  color: #EBEBEB;
+  background-color: #999999;
+}
+.Code {
+  /*width: 25%;
+  margin-left: 37.5%;
+  margin-right: 37.5%;*/
+  text-align: center;
+  background-color: #B8B8B8;
+  color: #535353;
+}
+.Child {
+  width: auto;
+  margin-left: 37.5%;
+  margin-right: 37.5%;
+  border: solid 1px #ccc;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: large;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+#underH3 {
+  font-style: normal;
+  padding: 2% 10%;
+}
+#links {
+  font-size: large;
+}
+#pakker {
+  table-layout: fixed;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
 #noFlash {
   position: fixed;
   z-index: 500;
