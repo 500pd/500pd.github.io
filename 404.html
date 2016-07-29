@@ -12,13 +12,12 @@ title: 404
     <!-- some other stuff like link or script -->
     <link rel="stylesheet" type="text/css" href="/css/Main.css">
     <link rel="icon" type="image/png" href="/favicon.png">
+    <script src="http://www.w3schools.com/lib/w3data.js"></script>
     <title>404 Page Not Found</title>
 </head>
 <body>
     <!-- the body for default.html -->
-    <nav>
-      <a href="/">Forside</a> | <a href="/cydia/">Cydia repo</a> | <a href="/andet">Andet</a>
-    </nav>
+    <div w3-include-html="/navbar.html"></div>
     <h1 class="Midt">404 Page Not Found</h1>
     <h2 class="Midt">Denne side findes desværre ikke</h2>
     <p class="Midt">
@@ -27,5 +26,4 @@ title: 404
       Eller
       <a href="/">gå til forsiden</a>
     </p>
-    <a id="noFlash" href="http://www.musingsfrommars.org/notoflash/" title="This is a Flash-Free Website... We use open file standards only... Not proprietary formats like Adobe Flash" alt="This is a Flash-Free Website... We use open file standards only... Not proprietary formats like Adobe Flash">Just Say No To Flash!</a>
 </body>
