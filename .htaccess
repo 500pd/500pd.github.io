@@ -1,9 +1,11 @@
-# Custom 404 Page
-ErrorDocument 404 /400.html
+# Custom 400 Page
+ErrorDocument 400 /400.html
 # Custom 401 Page
 ErrorDocument 401 /401.html
 # Custom 403 Page
 ErrorDocument 403 /403.html
+# Custom 404 Page
+ErrorDocument 404 /404.html
 # Custom 500 Page
 ErrorDocument 500 /500.html
 

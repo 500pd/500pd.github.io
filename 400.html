@@ -6,6 +6,9 @@ title: 400
 <html>
   <head>
     <meta charset="utf-8">
+    {% if page.url == "/400.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
     <link rel="stylesheet" type="text/css" href="/css/Main.css">
     <link rel="icon" type="image/png" href="./favicon.png">
     <title>400 Bad Request</title>
