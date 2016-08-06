@@ -1,0 +1,56 @@
+nav {
+  text-align: center;
+  font-size: large;
+}
+
+.Midt {
+  text-align: center;
+}
+
+a:link {
+  color: #00CC7A;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #30D3E3;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #3E87D1;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #09DA86;
+  text-decoration: none;
+}
+
+/* På en web-server*/
+#noFlash {
+  position: fixed;
+  z-index: 500;
+  right: 0;
+  bottom: 0;
+  display: block;
+  height: 160px;
+  width: 160px;
+  background: url(/images/flashfreeBR.png) bottom right no-repeat;
+  text-indent: -999em;
+  text-decoration: none;
+}
+
+/* Lokalt*/
+#noFlash {
+  position: fixed;
+  z-index: 500;
+  right: 0;
+  bottom: 0;
+  display: block;
+  height: 160px;
+  width: 160px;
+  background: url(/Users/paad/GitHub/500pd.github.io/images/flashfreeBR.png) bottom right no-repeat;
+  text-indent: -999em;
+  text-decoration: none;
+}

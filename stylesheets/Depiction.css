@@ -1,0 +1,116 @@
+body {
+    font-family: Helvetica, Arial;
+    -webkit-text-size-adjust: none;
+    -webkit-user-select: none;
+    margin: 0 auto;
+    width: 320px
+}
+
+body.white {
+    background-color: #fff
+}
+
+body.pinstripe {
+    padding: 0;
+    background: url(background.png) top center repeat-y #fff
+}
+
+body.transparent {
+    background: 0 0 !important
+}
+
+@media screen and (max-device-width:480px) {
+    body.pinstripe {
+        background: url(http://cache.saurik.com/menes/pinstripes.png) #c7ced5
+    }
+
+    panel {
+        background: 0 0
+    }
+
+    .cydia-only {
+        display: block
+    }
+
+    .browser-only {
+        display: none
+    }
+}
+
+body.modern.pinstripe {
+    background: #efeff4
+}
+
+body.modern, .modern panel {
+    width: auto
+}
+
+body.modern.pinstripe {
+    background: #efeff4
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0
+}
+
+.clearfix {
+    display: block
+}
+
+.fieldset {
+    clear: left
+}
+fieldset > a:not([href]) > img.icon + div, fieldset > div > img.icon + div {
+    width: 244px
+}
+
+fieldset > a[href] > img.icon + div {
+    width: 221px
+}
+
+fieldset.half > a > img.icon + div {
+    width: 65px
+}
+
+fieldset > a.small > img.icon {
+    max-height: 22px;
+    min-width: 22px;
+    width: 22px
+}
+
+fieldset > a.small.half > img.icon + div {
+    width: 79px
+}
+
+fieldset > a > img.icon, fieldset > div > img.icon {
+    height: auto;
+    margin: -7px 6px -9px -8px;
+    max-height: 29px;
+    min-width: 29px;
+    width: 29px
+}
+
+@media(min-width:375px) {
+    .modern .horizontal-scroll-wrapper {
+        max-width: 375px
+    }
+
+    .modern fieldset > a[href] > img.icon + div {
+        width: 276px
+    }
+}
+
+@media(min-width:414px) {
+    .modern .horizontal-scroll-wrapper {
+        max-width: 414px
+    }
+
+    .modern fieldset > a[href] > img.icon + div {
+        width: 314px
+    }
+}
