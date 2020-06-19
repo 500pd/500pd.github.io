@@ -1,8 +1,8 @@
-# 500pd.github.io
+# paadyhr.github.io
 My Cydia repository
 
 
-[Hjemmeside](https://500pd.github.io)  
+[Hjemmeside](https://paadyhr.github.io)  
 [Facebook](https://facebook.com/paadyhr)  
 [Twitter](https://twitter.com/paadyhr)  
 [Mail](mailto:paadyhr@gmail.com?subject=Feedback)
